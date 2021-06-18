@@ -1,0 +1,58 @@
+body{
+  font-family: 'Indie Flower', cursive;
+}
+h1 {
+  padding-top: 2.5%;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+
+p {
+  text-align: center;
+  padding-left: 8%;
+  padding-right: 8%;
+  padding-top: 2.5%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.intro {
+  text-align: left;
+  margin-top: auto;
+  font-size: 1.25rem;
+  padding: 4% 25%;
+  /* background-image: linear-gradient(to bottom,#ffa4b6, #ec407a); */
+  background-image: linear-gradient(to bottom, #ffdac0, #ffc7ba);
+
+}
+
+.name-form {
+  padding-top: 2%;
+  padding-left: 28%;
+  font-family: 'Indie Flower', cursive;
+}
+
+.copyright {
+  font-size: 0.7rem;
+  background-color: #f5c3c2;
+  position: fixed;
+  padding: 10px 10px 0px 10px;
+  bottom: 0;
+  width: 100%;
+  /* Height of the footer*/
+  height: 40px;
+  text-align:center;
+}
+
+.loveValue{
+  font-size:3.5rem;
+  font-family: 'Indie Flower', cursive;
+  text-align:center;
+  padding-top:4%
+}
+.loveMsg{
+  font-size:1.5rem;
+  font-family: 'Montserrat', sans-serif;
+  text-align:center;
+  padding-top:4%;
+  padding-bottom: 4%;
+}
